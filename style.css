@@ -4,8 +4,7 @@ body { color: rgb(116, 145, 165);}
   background-image: url('discord.png');
   background-repeat: no-repeat;
   background-position: 10px center; /* Position de l'image (à gauche, centrée verticalement) */
-  background-size: 20px 20px; /* Taille de l'image */
-  padding-left: 40px; /* Espace pour ne pas superposer le texte sur l'image */
+  background-size: 200px 200px; /* Taille de l'image */
   height: 40px;
 }
 
