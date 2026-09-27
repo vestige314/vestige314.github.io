@@ -5,7 +5,7 @@ body { color: rgb(116, 145, 165);}
   background-repeat: no-repeat;
   background-position: 10px center; /* Position de l'image (à gauche, centrée verticalement) */
   background-size: 200px 200px; /* Taille de l'image */
-  height: 40px;
+  height: 400px;
 }
 
 .pp_serveur {
