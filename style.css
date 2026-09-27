@@ -8,3 +8,8 @@ body { color: rgb(116, 145, 165);}
   height: 40px;
 }
 
+.pp_serveur {
+  width: 500;
+  height: 200;
+  text-align: center;
+}
